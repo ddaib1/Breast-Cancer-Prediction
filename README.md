@@ -12,6 +12,7 @@ Using Machine Learning to predict if the cancer diagnosis is benign or malignant
   - concave points (number of concave portions of the contour)
   - symmetry 
   - fractal dimension ("coastline approximation" - 1)
+
 Datasets are linearly separable using all 30 input features
 
 Algorithm used: Support Vector Machine (with optimization and scaling, as needed)
