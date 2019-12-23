@@ -13,6 +13,8 @@ Using Machine Learning to predict if the cancer diagnosis is benign or malignant
   - symmetry 
   - fractal dimension ("coastline approximation" - 1)
 
+Dataset has been compiled based on 4 years worth of research by Dr. Ryan Ahmed of the Wisconsin Oncology Department
+
 Datasets are linearly separable using all 30 input features
 
 Algorithm used: Support Vector Machine (with optimization and scaling, as needed)
