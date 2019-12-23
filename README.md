@@ -13,6 +13,7 @@ Using Machine Learning to predict if the cancer diagnosis is benign or malignant
   - symmetry 
   - fractal dimension ("coastline approximation" - 1)
 Datasets are linearly separable using all 30 input features
+
 Algorithm used: Support Vector Machine (with optimization and scaling, as needed)
 
 Number of Instances: 569
